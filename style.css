@@ -1,7 +1,7 @@
 @font-face {
   font-family: mainFont;
 
-  src: url('../public/fonts/Geraldton-Regular.woff2') format("woff2"), url('../public/fonts/Geraldton-Black.woff2') format("woff2"), url('../public/fonts/Geraldton-Light.woff2') format("woff2"), url('../public/fonts/GeraldtonBold.otf') format("otf");
+  src: url('./public/fonts/Geraldton-Regular.woff2') format("woff2"), url('./public/fonts/Geraldton-Black.woff2') format("woff2"), url('./public/fonts/Geraldton-Light.woff2') format("woff2"), url('./public/fonts/GeraldtonBold.otf') format("otf");
 }
 
 /*
@@ -754,6 +754,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   right: -15rem;
 }
 
+.bottom-4 {
+  bottom: 1rem;
+}
+
+.left-6 {
+  left: 1.5rem;
+}
+
 .-left-96 {
   left: -24rem;
 }
@@ -774,20 +782,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   left: -85%;
 }
 
-.bottom-6 {
-  bottom: 1.5rem;
-}
-
-.left-6 {
-  left: 1.5rem;
-}
-
 .bottom-1 {
   bottom: 0.25rem;
-}
-
-.bottom-4 {
-  bottom: 1rem;
 }
 
 .z-\[300\] {
