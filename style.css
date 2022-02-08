@@ -1,7 +1,7 @@
 @font-face {
   font-family: mainFont;
 
-  src: url('./public/fonts/Geraldton-Regular.woff2') format("woff2"), url('./public/fonts/Geraldton-Black.woff2') format("woff2"), url('./public/fonts/Geraldton-Light.woff2') format("woff2"), url('./public/fonts/GeraldtonBold.otf') format("otf");
+  src: url('./fonts/Geraldton-Regular.woff2') format("woff2"), url('./fonts/Geraldton-Black.woff2') format("woff2"), url('./fonts/Geraldton-Light.woff2') format("woff2"), url('./fonts/GeraldtonBold.otf') format("otf");
 }
 
 /*
