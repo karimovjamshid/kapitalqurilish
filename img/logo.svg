@@ -1,0 +1,9 @@
+<svg width="99" height="101" viewBox="0 0 99 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_601_346" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="99" height="101">
+<rect width="99" height="101"/>
+</mask>
+<g mask="url(#mask0_601_346)">
+<rect y="-7" width="99" height="108" fill="white"/>
+</g>
+<rect width="99" height="60"/>
+</svg>
