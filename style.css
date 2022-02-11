@@ -942,6 +942,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 16rem;
 }
 
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .mr-0 {
   margin-right: 0px;
 }
@@ -1192,23 +1196,23 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-about-bg {
-  background-image: url('./img/about/about.png');
+  background-image: url('./img/webp-img/about.webp');
 }
 
 .bg-contacts {
-  background-image: url('./img/contacts-bg.png');
+  background-image: url('./img/webp-img/contacts-bg.webp');
 }
 
 .bg-hero-bg {
-  background-image: url('./img/hero-bg.png');
+  background-image: url('./img/webp-img/hero-bg.webp');
 }
 
 .bg-portfolio {
-  background-image: url('./img/portfolio.png');
+  background-image: url('./img/webp-img/portfolio.webp');
 }
 
 .bg-services-bg {
-  background-image: url('./img/hero-bg2.png');
+  background-image: url('./img/webp-img/hero-bg2.webp');
 }
 
 .bg-cover {
